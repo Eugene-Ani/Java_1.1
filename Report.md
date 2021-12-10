@@ -8,7 +8,8 @@
 
 В результате тестирования был выявлен следующий дефект:
 * при пополненнии счета клиента итоговая сумма на счету имеет случайное значение.
-* ![Скрин с багом](https://user-images.githubusercontent.com/93180002/145536830-c4a54772-dba2-41fb-92fd-4ac822adc1a4.png)
+![Скрин с багом](https://user-images.githubusercontent.com/93180002/145536830-c4a54772-dba2-41fb-92fd-4ac822adc1a4.png)
+* баг-репорт: https://github.com/Eugene-Ani/Java_1.1/issues/1
 
 ## Описание процесса тестирования
 
